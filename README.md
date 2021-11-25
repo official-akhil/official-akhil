@@ -41,5 +41,5 @@
 </p>
 
 <p align='center'>
-  📃 Resume -  <a href='Resume.pdf'>Resume</a>
+  📃 Check out my Resume -  <a href='Resume.pdf'>Resume</a>
 </p>
