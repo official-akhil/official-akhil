@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A M.Tech(CSE) from IIIT, Delhi with keen interest in in Python, Data Structures and Machine Learning.
+  A M.Tech(CSE) student from IIIT, Delhi with keen interest in in Python, Data Structures and Machine Learning.
 </p>
 
 
