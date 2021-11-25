@@ -32,20 +32,12 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:akhil123ag@gmail.com'>akhil123ag@gmail.com</a>
-</p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/official-akhil/official-akhil"></a> hipsters and nerds have come here o/
 </p>
 
 <details>
@@ -57,6 +49,11 @@
 - 📖 **B.Tech(CSE)**\
 📆 2010 - 2014\
 📍 **Vellore Institute of Technology** - Tamil Nadu, India
+
+- 📖 **M.Tech(CSE)**\
+📆 2020 - Present\
+📍 **Indraprastha Institute of Information Technology Delhi** - New Delhi, India
+
 
 ## Experience
 
@@ -150,19 +147,3 @@
 <!-- | Content Cell         | Content Cell                                | link | link | -->
   
 </details>
-  
-
-<!--
-**alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
