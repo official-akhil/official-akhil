@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  Data Scientist at Simpl and a M.Tech(CSE) student from IIIT, Delhi with keen interest in in Python, Data Structures and Machine Learning.
+  Senior Data Scientist at Simpl and a M.Tech(CSE) student from IIIT, Delhi with keen interest in in Python, Data Structures and Machine Learning.
 </p>
 
 
