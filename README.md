@@ -44,6 +44,6 @@ Languages and Tools: <br>
 <p align='center'>
   Published Paper (IEEE Xplore) - <a href='https://ieeexplore.ieee.org/document/9616635'>Building an AI Model on ECG Data for Identifying Burnout/Stressed Healthcare Workers Involved in Covid-19 Management</a>
 
-<p align='center'>
+<!--<p align='center'>
   📃 Check out my Resume -  <a href='Resume.pdf'>Resume</a>
-</p>
+</p>-->
