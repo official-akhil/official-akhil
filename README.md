@@ -18,11 +18,6 @@
   <a href="https://instagram.com/mahajanakhil92/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=official-akhil&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
